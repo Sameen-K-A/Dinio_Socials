@@ -3,30 +3,30 @@ import { FaGlobe, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 const cards = [
   {
     icon: <FaGlobe size={18} />,
-    title: "Globe",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    gradient: "bg-gradient-to-r from-yellow-600 via-orange-600 to-red-600",
+    title: "Webite",
+    desc: "Visit our website to explore all services today.",
+    gradient: "bg-gradient-to-r from-[#d88984] via-[#d17bc3] to-[#feb38b]",
     to: "https://www.dinio.in/"
   },
   {
     icon: <FaInstagram size={18} />,
     title: "Instagram",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    gradient: "bg-gradient-to-tr from-purple-500 via-pink-500 to-red-500",
+    desc: "Follow us on Instagram for get lastest updates and stories.",
+    gradient: "bg-gradient-to-br from-[#d7d8da] via-[#3c6ec5] to-[#81dcf3]",
     to: "https://www.instagram.com/dinio.in/"
   },
   {
     icon: <FaLinkedin size={18} />,
     title: "LinkedIn",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    gradient: "bg-gradient-to-br from-blue-500 via-cyan-500 to-teal-500",
+    desc: "Connect on LinkedIn for news and opportunities.",
+    gradient: "bg-gradient-to-br from-[#4345b4] via-[#cd87e3] to-[#ddc8ec]",
     to: "https://www.linkedin.com/company/dinio-in/"
   },
   {
     icon: <FaYoutube size={18} />,
     title: "YouTube",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    gradient: "bg-gradient-to-t from-red-500 via-pink-600 to-purple-600",
+    desc: "Subscribe on YouTube for tutorials and demos.",
+    gradient: "bg-gradient-to-t from-red-500 via-[#fec3c3] to-[#c23d84]",
     to: "https://www.youtube.com/@Dinio-in"
   },
 ];
