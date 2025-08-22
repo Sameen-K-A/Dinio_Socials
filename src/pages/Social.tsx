@@ -11,7 +11,7 @@ const cards = [
   {
     icon: <FaInstagram size={18} />,
     title: "Instagram",
-    desc: "Follow us on Instagram for get lastest updates and stories.",
+    desc: "Follow us on Instagram for updates and stories.",
     gradient: "bg-gradient-to-br from-[#d7d8da] via-[#3c6ec5] to-[#81dcf3]",
     to: "https://www.instagram.com/dinio.in/"
   },
